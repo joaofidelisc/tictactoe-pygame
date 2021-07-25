@@ -1,0 +1,1 @@
+First, it was done the tic tac toe with visualization in the prompt itself and then I was thinking about doing it using pygame. To view it at the prompt, you can comment out all the code used in pygame and uncomment the code below. There are still bugs to fix, because the project is in the testing phase.
